@@ -1,7 +1,7 @@
 import java.util.Scanner;
 
 /*I took a CS1400 equivalent at MT SAC a few years ago so I no longer have access to most of my old projects, so 
- * this is a simple calculator */
+ * this is a simple calculator     */
 
 public class SimpleCalculator {
     public static void main(String[] args) {
